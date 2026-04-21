@@ -1,7 +1,7 @@
 # PES-VCS Lab Report
 
-**Name:** ASHWIN C H   
-**SRN:** PES1UG24AM900
+**Name:** AKASH G K 
+**SRN:** PES1UG24AM022
 **Platform:** Ubuntu 24.04
 
 ---
@@ -10,7 +10,7 @@
 
 ```bash
 sudo apt update && sudo apt install -y gcc build-essential libssl-dev
-export PES_AUTHOR="ashwin <PES1UG24AM900>"
+export PES_AUTHOR="akash" <PES1UG24AM022>"
 make all
 ```
 
